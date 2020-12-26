@@ -3,6 +3,7 @@ package com.example.mygithubtestproject;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+ХАХАХАХАХХХА ИШИ СЕБЯ В ПАБЛИКЕ СМЕЙСЯ ДО СЛЁЗ!!!!!!!
 
 public class MainActivity extends AppCompatActivity {
 
